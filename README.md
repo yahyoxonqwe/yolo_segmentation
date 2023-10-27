@@ -8,6 +8,7 @@ YOLOv8 provides precise bounding boxes and accurate masks, making it an excellen
 Clone the repository:
 ``` bash
 git clone https://github.com/yahyoxonqwe/yolo_segmentation.git
+```
 Change into the project directory:
 ``` bash
 cd yolo_segmentation
